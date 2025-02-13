@@ -16,7 +16,7 @@
         <label for="">Kolom :</label>
         <input type="number" name="Kolom">
         </br>
-        <button type="submit" name="submit">coklat tiramisu</button>
+        <button type="submit" name="submit">gatau mau ngetik apa</button>
     </div>
     </form>
     <?php
