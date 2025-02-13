@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Looping Adit</title>
+    <title>Looping gadiscans</title>
 </head>
 
 <body>
@@ -16,7 +16,7 @@
         <label for="">Kolom :</label>
         <input type="number" name="Kolom">
         </br>
-        <button type="submit" name="submit">Gaskueuen</button>
+        <button type="submit" name="submit">coklat tiramisu</button>
     </div>
     </form>
     <?php
